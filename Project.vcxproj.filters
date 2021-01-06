@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Puzzel">
+      <UniqueIdentifier>{7f784d77-65c3-4cf0-bc09-6192ffcfcc7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Puzzel">
+      <UniqueIdentifier>{cba51a29-1243-4aee-8867-5be41864e597}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Alle.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="board.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="buttons.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="structs.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Puzzel0.h">
+      <Filter>Pliki nagłówkowe\Puzzel</Filter>
+    </ClInclude>
+    <ClInclude Include="Puzzel.h">
+      <Filter>Pliki nagłówkowe\Puzzel</Filter>
+    </ClInclude>
+    <ClInclude Include="Puzzel1.h">
+      <Filter>Pliki nagłówkowe\Puzzel</Filter>
+    </ClInclude>
+    <ClInclude Include="Puzzel12.h">
+      <Filter>Pliki nagłówkowe\Puzzel</Filter>
+    </ClInclude>
+    <ClInclude Include="Puzzel14.h">
+      <Filter>Pliki nagłówkowe\Puzzel</Filter>
+    </ClInclude>
+    <ClInclude Include="Puzzel21.h">
+      <Filter>Pliki nagłówkowe\Puzzel</Filter>
+    </ClInclude>
+    <ClInclude Include="Puzzel22.h">
+      <Filter>Pliki nagłówkowe\Puzzel</Filter>
+    </ClInclude>
+    <ClInclude Include="Puzzel22dr.h">
+      <Filter>Pliki nagłówkowe\Puzzel</Filter>
+    </ClInclude>
+    <ClInclude Include="Puzzel41.h">
+      <Filter>Pliki nagłówkowe\Puzzel</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="alle.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="board.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="buttons.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Puzzel1.cpp">
+      <Filter>Pliki źródłowe\Puzzel</Filter>
+    </ClCompile>
+    <ClCompile Include="Puzzel12.cpp">
+      <Filter>Pliki źródłowe\Puzzel</Filter>
+    </ClCompile>
+    <ClCompile Include="Puzzel.cpp">
+      <Filter>Pliki źródłowe\Puzzel</Filter>
+    </ClCompile>
+    <ClCompile Include="Puzzel14.cpp">
+      <Filter>Pliki źródłowe\Puzzel</Filter>
+    </ClCompile>
+    <ClCompile Include="Puzzel21.cpp">
+      <Filter>Pliki źródłowe\Puzzel</Filter>
+    </ClCompile>
+    <ClCompile Include="Puzzel22dr.cpp">
+      <Filter>Pliki źródłowe\Puzzel</Filter>
+    </ClCompile>
+    <ClCompile Include="Puzzel22.cpp">
+      <Filter>Pliki źródłowe\Puzzel</Filter>
+    </ClCompile>
+    <ClCompile Include="Puzzel41.cpp">
+      <Filter>Pliki źródłowe\Puzzel</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>
